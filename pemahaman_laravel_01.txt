@@ -1,0 +1,2 @@
+Env untuk mengatur environment pada Laravel kita contohnya dari mengubah db atau mengubah nama domainnya. 
+	Directory yang menyimpan semua file konfigurasi. Seperti koneksi database atau mail server.
