@@ -1,0 +1,8 @@
+i. Clone sebuah repo `ide_entry_test` dari repository Anda
+git init
+Git clone https://github.com/albertchristiann/ide_entry_test.git
+ii. Lalu tuliskan step-step untuk mengupload seluruh file anda ke dalam repository
+Git add .
+Git commit -m “a”
+Git remote add origin https://github.com/albertchristiann/ide_entry_test.git
+git push -u origin master
